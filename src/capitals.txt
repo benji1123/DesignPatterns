@@ -1,0 +1,6 @@
+Toronto
+200
+DC
+100
+Beijing
+200
